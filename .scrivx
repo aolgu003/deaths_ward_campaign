@@ -1,0 +1,181 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ScrivenerProject Template="No" Version="1.5" Creator="SCRLIN-1.9.0.1" Device="andrew-Lenovo-Yoga-2-Pro" Modified="2020-06-06 16:50:47 +0000" ModID="9EC4A8FE-C561-4049-A70D-527AEEA9A3BD">
+    <Binder>
+        <BinderItem ID="0" UUID="EAE5544B-1840-4326-B2AD-1552A2B46C53" Created="2020-06-01 03:37:36 +0000" Modified="2020-06-01 03:37:36 +0000" Type="DraftFolder">
+            <Title>Draft</Title>
+            <MetaData>
+                <IncludeInCompile>Yes</IncludeInCompile>
+            </MetaData>
+            <Children>
+                <BinderItem ID="3" UUID="1B345221-AB9C-454F-B1EA-9A82FBB1AA08" Created="2020-06-01 03:37:36 +0000" Modified="2020-06-01 04:00:27 +0000" Type="Text">
+                    <Title>NPC List</Title>
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                    </MetaData>
+                    <TextSettings>
+                        <TextSelection>126,126</TextSelection>
+                        <Target Type="Words">0</Target>
+                    </TextSettings>
+                </BinderItem>
+                <BinderItem ID="4" UUID="C2E24C58-89EF-474B-AA6B-79B9D425CB4E" Created="2020-06-01 03:50:06 +0000" Modified="2020-06-01 03:50:36 +0000" Type="Folder">
+                    <Title>Deaths Ward NPCs</Title>
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                    </MetaData>
+                    <TextSettings>
+                        <Target Type="Words">0</Target>
+                    </TextSettings>
+                    <Children>
+                        <BinderItem ID="5" UUID="7FA9A28F-2689-4EA9-ADE6-C0BD4D1950D6" Created="2020-06-01 03:50:39 +0000" Modified="2020-06-01 04:07:57 +0000" Type="Text">
+                            <Title>Lestine</Title>
+                            <MetaData>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                            </MetaData>
+                            <TextSettings>
+                                <TextSelection>600,600</TextSelection>
+                                <Target Type="Words">0</Target>
+                            </TextSettings>
+                        </BinderItem>
+                        <BinderItem ID="6" UUID="6F33DF05-2DCB-4F6E-8FAA-30EE978C7C14" Created="2020-06-02 01:24:19 +0000" Modified="2020-06-02 01:24:19 +0000" Type="Text">
+                            <Title></Title>
+                            <MetaData>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                            </MetaData>
+                            <TextSettings>
+                                <Target Type="Words">0</Target>
+                            </TextSettings>
+                        </BinderItem>
+                    </Children>
+                </BinderItem>
+                <BinderItem ID="7" UUID="FD2963EC-4370-423F-B748-ACC9678B2FFE" Created="2020-06-02 01:24:34 +0000" Modified="2020-06-02 01:24:54 +0000" Type="Folder">
+                    <Title>Silberquel Ridge NPCs</Title>
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                    </MetaData>
+                    <TextSettings>
+                        <Target Type="Words">0</Target>
+                    </TextSettings>
+                    <Children>
+                        <BinderItem ID="8" UUID="793A3E56-D6F4-4898-9E3E-29C5331C31C0" Created="2020-06-02 01:24:57 +0000" Modified="2020-06-06 14:53:13 +0000" Type="Text">
+                            <Title>Marta</Title>
+                            <MetaData>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                            </MetaData>
+                            <TextSettings>
+                                <TextSelection>1036,1036</TextSelection>
+                                <Target Type="Words">0</Target>
+                            </TextSettings>
+                        </BinderItem>
+                    </Children>
+                </BinderItem>
+                <BinderItem ID="9" UUID="02D0F1AB-4EFB-48C0-BD28-77AA1663DEE4" Created="2020-06-06 14:53:35 +0000" Modified="2020-06-06 14:53:45 +0000" Type="Folder">
+                    <Title>Hound Madness</Title>
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                    </MetaData>
+                    <TextSettings>
+                        <Target Type="Words">0</Target>
+                    </TextSettings>
+                    <Children>
+                        <BinderItem ID="10" UUID="1649EACE-11E9-4CD6-A1FA-CCC4074E9050" Created="2020-06-06 14:53:45 +0000" Modified="2020-06-06 16:01:11 +0000" Type="Text">
+                            <Title>What are the characters going to do?</Title>
+                            <MetaData>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                            </MetaData>
+                            <TextSettings>
+                                <TextSelection>2299,2299</TextSelection>
+                                <Target Type="Words">0</Target>
+                            </TextSettings>
+                        </BinderItem>
+                        <BinderItem ID="11" UUID="8461FBB1-9023-4D70-A65C-36D163EFA100" Created="2020-06-06 16:00:13 +0000" Modified="2020-06-06 16:05:49 +0000" Type="Text">
+                            <Title>Marta's compound exterior</Title>
+                            <MetaData>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                            </MetaData>
+                            <TextSettings>
+                                <TextSelection>18,18</TextSelection>
+                                <Target Type="Words">0</Target>
+                            </TextSettings>
+                        </BinderItem>
+                        <BinderItem ID="12" UUID="1F3325E3-6D7B-48C4-B79E-4EE95ED93F65" Created="2020-06-06 16:00:34 +0000" Modified="2020-06-06 16:00:48 +0000" Type="Text">
+                            <Title>Marta's compound interior</Title>
+                            <MetaData>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                            </MetaData>
+                            <TextSettings>
+                                <Target Type="Words">0</Target>
+                            </TextSettings>
+                        </BinderItem>
+                        <BinderItem ID="13" UUID="CFF43D5E-7D39-4AC6-9E15-8A68B30CF141" Created="2020-06-06 16:00:51 +0000" Modified="2020-06-06 16:06:06 +0000" Type="Text">
+                            <Title>Orc war camp</Title>
+                            <MetaData>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                            </MetaData>
+                            <TextSettings>
+                                <TextSelection>8,8</TextSelection>
+                                <Target Type="Words">0</Target>
+                            </TextSettings>
+                        </BinderItem>
+                        <BinderItem ID="14" UUID="5E775420-1517-4343-9E59-DC032C927C70" Created="2020-06-06 16:06:30 +0000" Modified="2020-06-06 16:06:42 +0000" Type="Text">
+                            <Title>Silberquel Encounter</Title>
+                            <MetaData>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                            </MetaData>
+                            <TextSettings>
+                                <Target Type="Words">0</Target>
+                            </TextSettings>
+                        </BinderItem>
+                    </Children>
+                </BinderItem>
+            </Children>
+        </BinderItem>
+        <BinderItem ID="1" UUID="3AB670D5-A2EC-4386-9B21-82C2253A0781" Created="2020-06-01 03:37:36 +0000" Modified="2020-06-01 03:37:36 +0000" Type="ResearchFolder">
+            <Title>Research</Title>
+            <MetaData>
+                <IncludeInCompile>Yes</IncludeInCompile>
+            </MetaData>
+        </BinderItem>
+        <BinderItem ID="2" UUID="FDABFD0E-BC24-4051-B8D3-8D2C3158A336" Created="2020-06-01 03:37:36 +0000" Modified="2020-06-01 03:37:36 +0000" Type="TrashFolder">
+            <Title>Trash</Title>
+            <MetaData>
+                <IncludeInCompile>Yes</IncludeInCompile>
+            </MetaData>
+        </BinderItem>
+    </Binder>
+    <LabelSettings>
+        <Title>Label</Title>
+        <DefaultLabelID>-1</DefaultLabelID>
+        <Labels>
+            <Label ID="-1">No Label</Label>
+            <Label ID="0" Color="0.752941 0.752941 1.000000">Concept</Label>
+            <Label ID="1" Color="1.000000 0.752941 0.752941">Chapter</Label>
+        </Labels>
+    </LabelSettings>
+    <StatusSettings>
+        <Title>Status</Title>
+        <DefaultStatusID>-1</DefaultStatusID>
+        <StatusItems>
+            <Status ID="-1">No Status</Status>
+            <Status ID="0">N/A</Status>
+            <Status ID="1">To Do</Status>
+            <Status ID="2">First Draft</Status>
+            <Status ID="3">Revised Draft</Status>
+            <Status ID="4">Final Draft</Status>
+            <Status ID="5">Done</Status>
+        </StatusItems>
+    </StatusSettings>
+    <Collections>
+        <Collection Type="Binder" ID="8984023c-87f4-45ff-9c64-b72a60dab7d8" Color="0.901961 0.917647 0.933333">
+            <Title>Binder</Title>
+        </Collection>
+        <Collection Type="RecentSearch" ID="f3906573-0a88-4dce-9e96-ed835472d75f" Color="0.901961 0.901961 0.980392">
+            <Title>Search Results</Title>
+            <SearchSettings Operator="Exact" Type="All" Scope="All" CompileSetting="All" CaseSensitive="No"></SearchSettings>
+        </Collection>
+    </Collections>
+    <ProjectTargets Notify="No">
+        <DraftTarget Type="Words" CountIncludedOnly="No" CurrentCompileGroupOnly="No">0</DraftTarget>
+        <SessionTarget Type="Words" CountDraftOnly="No" AllowNegatives="No" ResetType="Midnight" DeterminedFromDeadline="No" CanWriteOnDeadlineDate="Yes" WritingDays="">0</SessionTarget>
+    </ProjectTargets>
+    <PrintSettings PaperType="Letter" LeftMargin="10" RightMargin="10" TopMargin="10" BottomMargin="10" Orientation="Portrait" Collates="No" ReverseOrder="No"/>
+</ScrivenerProject>
